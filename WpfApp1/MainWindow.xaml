@@ -8,6 +8,6 @@
         Title="Name" Height="450" Width="800">
 
     <Grid>
-        <TextBlock Background="Blue" Height="50" Width="180"></TextBlock>
+        <TextBlock Background="Red" Height="50" Width="180"></TextBlock>
     </Grid>
 </Window>
